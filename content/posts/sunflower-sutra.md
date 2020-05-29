@@ -1,11 +1,11 @@
 ---
-date: 2019-08-08T22:42:09Z
+date: 2019-08-08T22:42:09.000+00:00
 title: Sunflower Sutra
-author: Allen Ginsberg
+author: Matt Perrott
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 
 ---
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
+I walked on the banks of the tincan banana dock and sat down under the huge shade of a **Southern Pacific** locomotive to look for the sunset over the box house hills and cry.
 
 Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
 
@@ -40,3 +40,5 @@ and those blear thoughts of death and dusty loveless eyes and ends and withered 
 entangled in your mummied roots–and you standing before me in the sunset, all your glory in your form!
 
 A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+
+![](/content/images/ruslan-bardash-g83y6do219w-unsplash.jpg)
