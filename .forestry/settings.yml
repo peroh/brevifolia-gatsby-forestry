@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: content/test
+  path: content/test.json
   label: Test Document
 - type: heading
   label: Custom Content
