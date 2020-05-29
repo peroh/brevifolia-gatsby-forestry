@@ -7,7 +7,6 @@ sections:
 - type: document
   path: test path
   label: Test Document
-  match: "**/*"
 - type: heading
   label: Custom Content
 - type: heading
