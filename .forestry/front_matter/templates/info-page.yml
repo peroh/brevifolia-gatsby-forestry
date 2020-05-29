@@ -43,5 +43,23 @@ fields:
     color_format: Hex
   description: Enter info page background color
   default: "#B1BCBC"
+- name: test_label
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Test Label
+  description: Test desription help text
+- name: aaaa
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: blog-posts
+  label: aaaa
 pages:
 - content/data/info.json
