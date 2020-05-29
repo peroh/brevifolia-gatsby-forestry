@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: content/projects
   label: Project Pages
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - blog-post
