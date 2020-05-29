@@ -9,6 +9,8 @@ sections:
   label: Project Pages
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: document
   path: content/test.json
   label: Test Document
